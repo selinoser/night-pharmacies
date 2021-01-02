@@ -1,0 +1,70 @@
+html, body, #root, #wrapper, .content {
+  height: 100%;
+}
+
+.sidebar {
+  overflow: scroll;
+}
+
+.main-header {
+  left: 0;
+  background:#d30011;
+}
+
+.main-panel .content {
+  min-height: calc(100% - 56px);
+}
+
+.logo {
+  text-align: center;
+  display: block;
+}
+
+.main-header .logo-header {
+  position: relative;
+}
+
+.card .card-title {
+  color: #ef0215;
+}
+
+.main-header .logo-header .navbar-toggler {
+  top: 10px;
+  position: absolute;
+}
+
+.main-header .logo-header .navbar-toggler .navbar-toggler-icon {
+  background: none
+}
+
+.sidebar .nav .nav-item:hover a:before {
+  background: #d30011;
+  opacity: 1;
+  width: 4px;
+}
+
+.sidebar .nav .nav-item a:hover, 
+.sidebar .nav .nav-item a:focus, 
+.sidebar .nav .nav-item a:hover, 
+.sidebar .nav .nav-item a.active {
+  background: #f5f5f5;
+}
+
+.sidebar .nav .nav-item a.active::before {
+  background: #d30011;
+  opacity: 1;
+  position: absolute;
+  z-index: 1;
+  width: 4px;
+  height: 100%;
+  content: '';
+  left: 0;
+  top: 0;
+}
+
+@media screen and (max-width: 991px){
+  .main-header .logo-header .navbar-toggler {
+      top: auto !important;
+  }
+}
+
