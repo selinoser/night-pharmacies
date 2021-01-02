@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/night-pharmacies/static/css/main.5aaab4bc.chunk.css",
-    "main.js": "/night-pharmacies/static/js/main.83ce6d96.chunk.js",
-    "main.js.map": "/night-pharmacies/static/js/main.83ce6d96.chunk.js.map",
+    "main.js": "/night-pharmacies/static/js/main.19f0a8c3.chunk.js",
+    "main.js.map": "/night-pharmacies/static/js/main.19f0a8c3.chunk.js.map",
     "runtime-main.js": "/night-pharmacies/static/js/runtime-main.45f8f098.js",
     "runtime-main.js.map": "/night-pharmacies/static/js/runtime-main.45f8f098.js.map",
-    "static/js/2.4f4fb549.chunk.js": "/night-pharmacies/static/js/2.4f4fb549.chunk.js",
-    "static/js/2.4f4fb549.chunk.js.map": "/night-pharmacies/static/js/2.4f4fb549.chunk.js.map",
+    "static/js/2.70e1d611.chunk.js": "/night-pharmacies/static/js/2.70e1d611.chunk.js",
+    "static/js/2.70e1d611.chunk.js.map": "/night-pharmacies/static/js/2.70e1d611.chunk.js.map",
     "index.html": "/night-pharmacies/index.html",
     "static/css/main.5aaab4bc.chunk.css.map": "/night-pharmacies/static/css/main.5aaab4bc.chunk.css.map",
-    "static/js/2.4f4fb549.chunk.js.LICENSE.txt": "/night-pharmacies/static/js/2.4f4fb549.chunk.js.LICENSE.txt"
+    "static/js/2.70e1d611.chunk.js.LICENSE.txt": "/night-pharmacies/static/js/2.70e1d611.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.45f8f098.js",
-    "static/js/2.4f4fb549.chunk.js",
+    "static/js/2.70e1d611.chunk.js",
     "static/css/main.5aaab4bc.chunk.css",
-    "static/js/main.83ce6d96.chunk.js"
+    "static/js/main.19f0a8c3.chunk.js"
   ]
 }
